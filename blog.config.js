@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '铁匠', // 作者
   BIO: '普普通通', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  LINK: 'https://111.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '90f0c757e68e4a338eed4e0abf40ef78', 
